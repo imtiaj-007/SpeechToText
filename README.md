@@ -1,13 +1,14 @@
-Clone this repository :
-    git clone https://.....
+# Clone this repository :
+- git clone https://github.com/imtiaj-007/SpeechToText.git
+- git clone git@github.com:imtiaj-007/SpeechToText.git
 
-Install Dependencies:
-    npm install / npm i
+# Install Dependencies:
+    npm install
 
-Run Project:
+# Run Project:
     npm run dev
 
-Build Project:
+# Build Project:
     vite build
 
 # React + Vite
