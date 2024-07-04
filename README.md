@@ -1,6 +1,6 @@
 # Clone this repository :
-- git clone https://github.com/imtiaj-007/SpeechToText.git
-- git clone git@github.com:imtiaj-007/SpeechToText.git
+- git clone https://github.com/...
+- git clone git@github.com:...
 
 # Install Dependencies:
     npm install

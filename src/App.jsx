@@ -1,10 +1,12 @@
-import './App.css'
-import VoiceToText from './VoiceToText'
+// import './App.css'
+import Prescription from './components/Prescription/Prescription'
 
-function App() {
+const App = ()=> {
 
     return (
-        <VoiceToText />
+        <section>
+            <Prescription />
+        </section>
     )
 }
 
